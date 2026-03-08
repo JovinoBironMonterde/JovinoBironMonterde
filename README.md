@@ -18,7 +18,7 @@ Frontend Developer specializing in modern web interfaces, performance-focused ap
 
 ## 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about clean UI & great UX
+- 🚀 Frontend Developer
 - ⚡ Building applications using **React, Next.js & Tailwind**
 - 📱 Currently learning **React Native + NativeWind**
 - 🎯 Focused on performance, accessibility, and modern design systems
